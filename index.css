@@ -1,0 +1,24 @@
+body{
+color:skyblue;
+font-size:50px;
+background: #d4f92c;
+}
+
+.first-group{
+text-align: center;
+font-size: 50px;
+color:teal;
+}
+
+.last-group{
+  text-align: right;
+  color:black;
+
+}
+#important{
+  font-size: 80px;
+}
+#namehighlight{
+
+  font-size: 70px;
+}
